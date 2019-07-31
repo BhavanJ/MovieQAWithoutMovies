@@ -75,7 +75,7 @@
    <table class="results" align="center">
     <tr>
       <td align="center">
-	      <img src="assets/Teaser_straight_arrows.pdf" width="90%" /></a>
+	      <img src="/Teaser_straight_arrows.pdf" width="90%" /></a>
       </td>
     </tr>
     <tr></tr>
