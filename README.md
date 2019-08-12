@@ -16,3 +16,7 @@ v2i
 Reference LMN github page as well
 
 Combine all the helper code into a single file and reference it
+
+Add training plots as well
+
+Visuailze word2vec code
