@@ -19,6 +19,8 @@ We have provided the processed data to run the code and get different results as
 ## Train and replicate the results
 ```
 python main.py
+
+TODO: explain different settings
 ```
 
 ## Paper
