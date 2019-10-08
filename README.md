@@ -15,5 +15,19 @@ We have provided the processed data to run the code and get different results as
 
 
 
-This code is built upon [Layered Memory Network](https://github.com/bowong/Layered-Memory-Network). I would like to thank them for providing some of there processed data.
+## Paper
+
+Bhavan Jasani, Rohit Girdhar, Deva Ramanan, ["Are we asking the right questions in MovieQA?"](https://bhavanj.github.io/MovieQAWithoutMovies/), ICCVW, 2019.
+
+```
+@inproceedings{BJ_ICCV_2019,
+  author    = {Bhavan Jasani, Rohit Girdhar and Deva Ramanan},
+  title     = {Are we asking the right questions in MovieQA?},
+  booktitle = {ICCVW},
+  year      = {2019},
+}
+```
+
+
+This code is built upon [Layered Memory Network](https://github.com/bowong/Layered-Memory-Network). We would like to thank them for providing some of there processed data.
 
