@@ -1,31 +1,14 @@
-
-1) Download the dataset and the dataloaders from the MovieQA repo
-https://github.com/makarandtapaswi/MovieQA_CVPR2016/
-https://github.com/makarandtapaswi/MovieQA_benchmark
-
-Download the data and w2v folder from 
-https://drive.google.com/drive/folders/16_GqxxY-w5Bz2yz4uQWupNqF43Wwishr?usp=sharing
+I have provided the processed data to run my code and get different results as mentioned in the paper. The accompying paper can be found at https://bhavanj.github.io/MovieQAWithoutMovies/.
 
 
-Download GoogleNews-vectors-negative300.bin.gz from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing and store in w2v_model/Glove
+1) Clone this repo
+2)Download the data and w2v folders from - https://drive.google.com/drive/folders/16_GqxxY-w5Bz2yz4uQWupNqF43Wwishr?usp=sharing
+3) Download the file GoogleNews-vectors-negative300.bin.gz from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing and store it in w2v_model/Glove
 
-Download movie_plots_1364.d-300.mc1.w2v from https://cvhci.anthropomatik.kit.edu/~mtapaswi/downloads/movie_plots_1364.d-300.mc1.w2v and store in w2v_model/MovieQA
+4)Run python main.py to replicate various results with different parameters.
 
-Then run main.py
 
-2)Download the following:
-Movie plot data for training word2vec:
-Google word2vec: 
-MovieQA word2vec:
-JSON files...should be in MovieQA repo
 
-Need some code/data from LMN?
-v2i
 
-Reference LMN github page as well
+This code is built upon Layered Memory Network (https://github.com/bowong/Layered-Memory-Network). I would like to thank them for providing some of there processed data.
 
-Combine all the helper code into a single file and reference it
-
-Add training plots as well
-
-Visuailze word2vec code
