@@ -8,7 +8,7 @@ We have provided the processed data to run the code and get different results as
 
 
 
-## Setup the repo
+## Setup the repository
 
 1) Clone this repo - git clone https://github.com/BhavanJ/MovieQAWithoutMovies
 2) Download the contents of data and w2v folders from [here](https://drive.google.com/drive/folders/16_GqxxY-w5Bz2yz4uQWupNqF43Wwishr?usp=sharing). These are the processed data.
