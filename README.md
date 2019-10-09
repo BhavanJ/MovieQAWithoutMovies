@@ -37,5 +37,5 @@ Bhavan Jasani, Rohit Girdhar, Deva Ramanan, ["Are we asking the right questions 
 ```
 
 
-This code is built upon [Layered Memory Network](https://github.com/bowong/Layered-Memory-Network). We would like to thank them for providing some of there processed data.
+This code is built upon [Layered Memory Network](https://github.com/bowong/Layered-Memory-Network). We would like to thank them for providing some of their processed data.
 
