@@ -4,7 +4,7 @@ Ranked 1st on [MovieQA leaderboard](http://movieqa.cs.toronto.edu/leaderboard/) 
 
 ![Wiki](https://bhavanj.github.io/MovieQAWithoutMovies/images/Teaser_straight_arrows.jpg)
 
-We have provided the processed data to run the code and get different results as mentioned in the paper. The accompying paper can be found at the [project page](https://bhavanj.github.io/MovieQAWithoutMovies/). Follow the below steps to run our code.
+We have provided the processed data to run the code and get different results as mentioned in the paper. The accompanying paper can be found at the [project page](https://bhavanj.github.io/MovieQAWithoutMovies/). Follow the below steps to run our code.
 
 
 
